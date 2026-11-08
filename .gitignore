@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+build/
+dist/
+*.zip
+*.rar
+!pyide.rar
+*.7z
+.idea/
+.vscode/
+*.log
