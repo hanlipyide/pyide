@@ -6,9 +6,9 @@ PyIDE 把这条路变成一个更直接的体验：**免安装、免部署，拖
 
 它是一款为中文用户打造的可视化 Python 桌面 IDE。你不必在界面设计器、代码编辑器、Python 环境和打包工具之间来回切换；打开 PyIDE，就可以从一个空白窗口开始，把想法一步步变成可以运行、可以分享的 `.exe` 软件。
 
-**免安装 Python，免配置开发环境，免部署运行环境，一键打包 Windows `.exe`。**
+**免安装 Python，免配置开发环境，免部署运行环境，轻松拖拽界面，完美兼容PyCharm和vscode，一键打包**
 
-![PyIDE 工作区：拖拽设计界面，编写 Python 逻辑](pyide-workspace.png)
+![PyIDE 工作区：拖拽设计界面，编写 Python 逻辑](assets/pyide-workspace.png)
 
 ## PyIDE 特别在哪里？
 
